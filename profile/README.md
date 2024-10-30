@@ -1,5 +1,3 @@
-
-
 # LIVEDJ-Application
 ## Frontend
 #### LIVEDJ-Frontend: [![Turbo Check](https://github.com/LIVEDJ-App/LIVEDJ-Frontend/actions/workflows/turbo.yml/badge.svg)](https://github.com/LIVEDJ-App/LIVEDJ-Frontend/actions/workflows/turbo.yml) [![Sonarcloud](https://github.com/LIVEDJ-App/LIVEDJ-Frontend/actions/workflows/sonar.yml/badge.svg)](https://github.com/LIVEDJ-App/LIVEDJ-Frontend/actions/workflows/sonar.yml)
