@@ -2,7 +2,7 @@
 
 # LIVEDJ-Application
 ## Frontend
-#### LIVEDJ-Frontend: [![Turbo Check](https://github.com/LIVEDJ-App/LIVEDJ-Frontend/actions/workflows/turbo.yml/badge.svg)](https://github.com/LIVEDJ-App/LIVEDJ-Frontend/actions/workflows/turbo.yml) [![Sonarcloud Analysis](https://github.com/LIVEDJ-App/LIVEDJ-Frontend/actions/workflows/sonar.yml/badge.svg)](https://github.com/LIVEDJ-App/LIVEDJ-Frontend/actions/workflows/sonar.yml)
+#### LIVEDJ-Frontend: [![Turbo Check](https://github.com/LIVEDJ-App/LIVEDJ-Frontend/actions/workflows/turbo.yml/badge.svg)](https://github.com/LIVEDJ-App/LIVEDJ-Frontend/actions/workflows/turbo.yml) [![Sonarcloud](https://github.com/LIVEDJ-App/LIVEDJ-Frontend/actions/workflows/sonar.yml/badge.svg)](https://github.com/LIVEDJ-App/LIVEDJ-Frontend/actions/workflows/sonar.yml)
 
 ## Gateway
 #### LIVEDJ-Gateway: [![.NET Check](https://github.com/LIVEDJ-App/LIVEDJ-Gateway/actions/workflows/dotnet.yml/badge.svg)](https://github.com/LIVEDJ-App/LIVEDJ-Gateway/actions/workflows/dotnet.yml) [![Build and Push Docker Image](https://github.com/LIVEDJ-App/LIVEDJ-Gateway/actions/workflows/docker-build.yml/badge.svg)](https://github.com/LIVEDJ-App/LIVEDJ-Gateway/actions/workflows/docker-build.yml) [![SonarCloud](https://github.com/LIVEDJ-App/LIVEDJ-Gateway/actions/workflows/sonar.yml/badge.svg)](https://github.com/LIVEDJ-App/LIVEDJ-Gateway/actions/workflows/sonar.yml)
